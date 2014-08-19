@@ -1,0 +1,427 @@
+::selection{ background-color: #E13300; color: white; }
+	::moz-selection{ background-color: #E13300; color: white; }
+	::webkit-selection{ background-color: #E13300; color: white; }
+
+	.side {
+   background: none repeat scroll 0 0 #294c88;
+    color: #FFFFFF;
+    padding: 1px 1px 1px 9px;
+    text-align: left;
+    width: 103px;
+	border: 0px solid #3399CC;
+          }
+		  
+   input, textarea, select, option{
+    border: 1px solid #99CCFF;
+    font-size: 13px;
+    padding: 6px;
+	}
+	
+	body {
+		margin: 15px;
+		font: 13px/20px normal Helvetica, Arial, sans-serif;
+		color: #4F5155;
+	}
+
+	a {
+		color: #003399;
+		background-color: transparent;
+	}
+
+	h1 {
+		color: #444;
+		background-color: transparent;
+		border-bottom: 1px solid #D0D0D0;
+		font-size: 19px;
+		font-weight: normal;
+		margin: 0 0 14px 0;
+		padding: 14px 15px 10px 15px;
+	}
+
+	
+
+	#body{
+		margin: 0 15px 0 15px;
+	}
+	
+	p.footer{
+    font-size: 13px;
+    line-height: 32px;
+    margin: 43px 0 0;
+    padding: 0 10px;
+    text-align: right;
+	}
+	
+	/* deck area booking guru */
+	
+	.space {
+	padding-left:30px;
+	padding-right:30px;
+	text-align:justify;	
+	}
+	
+	
+	
+	#container{
+		    /*border: 1px solid #D0D0D0;*/
+            margin: 0 auto;
+	}
+	
+	/*#login {
+    border: 0px solid #DDDDDD;
+    font-size: 14px;
+     margin: 4px auto;
+    padding: 5px;
+   }*/
+   
+  /*
+  .header_top_img{
+  
+    background: url("content-top-bg.png") repeat-y scroll 0 0 transparent;
+  }
+  */
+  
+  #login {
+   /* background: url("content-bg.png") repeat-y scroll 0 0 transparent;*/
+    margin: 0 auto;
+    padding-bottom: 20px;
+    width: 960px;
+	background:#FFFFFF;
+   }
+   
+   
+   .image_align img{
+     margin-top: -5px;
+    position: absolute;
+   }
+   
+   #menus_color a{
+     color:#FFFFFF;
+	  text-decoration: none;
+   }
+   
+   .change_background_color td a{
+     background:red;
+   }
+   
+  #example img{
+ 
+     box-shadow: 1px 1px 1px lightgrey;
+  }
+  
+  #tableup {
+  margin-top:-100px;
+  }
+  
+   #id1{
+   
+      background:red;
+   }
+   
+   a[href="#tab1"]{ background:#00FF00!important;}
+   
+   a[href="#tab2"]{ background:#FF0000!important; color:#FFFFFF; text-decoration:none  }
+   
+   a[href="#tab5?id=INVALID DATE"]{ /*!important;*/ text-decoration:none!important;  color: blue; background:#FFFFFF !important;}
+   
+   
+   a[href="http://localhost/manjunath/mdr/index.php/user_deck_area_booking/booking_form/2013/03/11/lunch"]{ background: yellow  !important;}
+   
+    a[href="http://localhost/manjunath/mdr/index.php/user_deck_area_booking/booking_form/2013/03/15/dinner"]{ background:orange!important; }
+	
+	a[href="#tab7"]{
+	 
+	background:#FFFF00 !important;
+	
+	}
+	
+	a[href="#tab8"]{
+	 
+	background:orange !important;
+	
+	}
+
+  #manju  a[href="#tab5"]{
+   
+    color:blue !important;
+   
+   }
+   
+   /*#manju{
+   
+    color:white !important;
+   
+   }*/
+  
+  #booking_calender_user td a
+  {
+	   background:#00FF00;
+	   padding:10px;
+	   background-image:url(../images/MDR-CAL.png) no-repeat;
+	   /*color: white;*/
+   } 
+   
+   
+ #booking_calender_admin td a{
+	   padding:8px;
+	   text-decoration:none;
+   }
+   
+   .lunch_available{
+   
+   background:#00FFFF!important;
+   
+   }
+   
+   	.calendar {
+font-family: 'Trebuchet MS', Tahoma, Verdana, Arial, sans-serif;
+font-size: 0.9em;
+background-color: #EEE;
+color: #333;
+border: 1px solid #DDD;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+padding: 0.2em;
+width: 20em;
+}
+.calendar .months {
+background-color: #F6AF3A;
+border: 1px solid #E78F08;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+color: #FFF;
+padding: 0.2em;
+text-align: center;
+}
+.calendar .prev-month,
+.calendar .next-month {
+padding: 0;
+}
+.calendar .prev-month {
+float: left;
+}
+.calendar .next-month {
+float: right;
+}
+.calendar .current-month {
+margin: 0 auto;
+}
+.calendar .months .prev-month,
+.calendar .months .next-month {
+color: #FFF;
+text-decoration: none;
+padding: 0 0.4em;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+cursor: pointer;
+}
+.calendar .months .prev-month:hover,
+.calendar .months .next-month:hover {
+background-color: #FDF5CE;
+color: #C77405;
+}
+.calendar table {
+border-collapse: collapse;
+padding: 0;
+font-size: 0.8em;
+width: 100%;
+}
+.calendar th {
+text-align: center;
+}
+.calendar td {
+text-align: right;
+padding: 4px;
+width: 14.3%;
+}
+.calendar td span {
+display: block;
+color: #1C94C4;
+background-color: #F6F6F6;
+border: 1px solid #CCC;
+text-decoration: none;
+padding: 0.2em;
+cursor: pointer;
+}
+.calendar td span:hover {
+color: #C77405;
+background-color: #FDF5CE;
+border: 1px solid #FBCB09;
+}
+.calendar td.today span {
+background-color: #FFF0A5;
+border: 1px solid #FED22F;
+color: #363636;
+}
+
+.image_align1 img{
+
+   padding-top:5px;
+}
+
+.delete_edit a{
+
+   font-size:12px !important;
+
+}
+
+.inner{
+  margin: -3px auto 0;
+}
+
+.backgorund_date_image{
+
+color:black; 
+font-size:14px; 
+text-align:center;
+
+}
+
+.backgorund_date_image1{
+
+ background: url("wo.jpg") repeat scroll 0 0 transparent;
+
+}
+
+textarea { overflow: auto !important; }
+
+.myclassname .form{display:none;}
+
+a[href="#tab11?id=DINNER BOOKED"]{ background:#6633FF !important; } 
+
+a[href="#tab2?id=BOOKED"]{ background:red!important;} 
+
+a[href="#tab10?id=LUNCH BOOKED"]{ background:yellow !important;} 
+
+a[href="#tab17?id=AVAILABLE"]{ background:#00FF00!important;}  
+
+a[href="#tab12?id=BOOKED"]{ background: #FF0000!important;} 
+
+.book_customer a{ 
+  color:#FFFFFF;
+  font-weight:bold;
+  font-size:18px;
+  text-decoration:none;
+}
+
+#mainMenu td.selected {
+  background-color: #EDEDED;
+}
+
+#mainMenu a{
+  color:#FFFFFF!important;
+}
+
+#You_cannot_book_plat a{
+  height:0px;
+  width:0px;	
+  padding:0px;
+  margin:0px;
+  font-size:14px;
+  color:#FF3333 !important;
+}
+
+#menus_color a[title]:hover:after {
+  content: attr(title);
+  padding: 50px 20px;
+  color: red;
+  font-weight:bold;
+  position: absolute;
+  left: 500px;
+  top: 35%;
+  white-space: nowrap;
+  z-index: 20px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -moz-box-shadow: 0px 0px 4px #222;
+  -webkit-box-shadow: 0px 0px 4px #222;
+  box-shadow: 0px 0px 4px #222;
+  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #eeeeee),color-stop(1, #cccccc));
+  background-image: -webkit-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -ms-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -o-linear-gradient(top, #eeeeee, #cccccc);
+}
+
+a[title1]:hover:after {
+  content: attr(title);
+  padding: 50px 20px;
+  color: red;
+  font-weight:bold;
+  position: absolute;
+  left: 250px;
+  top: 50%;
+  white-space: nowrap;
+  z-index: 20px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -moz-box-shadow: 0px 0px 4px #222;
+  -webkit-box-shadow: 0px 0px 4px #222;
+  box-shadow: 0px 0px 4px #222;
+  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #eeeeee),color-stop(1, #cccccc));
+  background-image: -webkit-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -ms-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -o-linear-gradient(top, #eeeeee, #cccccc);
+  display:none;
+}
+
+.gtlt a {
+  font-size:18px;	
+  font-weight:bold;
+  text-decoration:underline;
+  font-weight:bold!important;
+}
+
+.booking_slot_cust a{
+   text-decoration:underline;
+}
+
+.register_buttons {
+	-moz-box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffc477), color-stop(1, #fb9e25) );
+	background:-moz-linear-gradient( center top, #ffc477 5%, #fb9e25 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc477', endColorstr='#fb9e25');
+	background-color:#ffc477;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #cc9f52;
+}.register_buttons:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fb9e25), color-stop(1, #ffc477) );
+	background:-moz-linear-gradient( center top, #fb9e25 5%, #ffc477 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb9e25', endColorstr='#ffc477');
+	background-color:#fb9e25;
+}.register_buttons:active {
+	position:relative;
+	top:1px;
+}
+
+.manage_products a{
+   text-decoration:underline;
+}
+
+.platter_price_modify a{
+   text-decoration:underline;
+}
+
+#menu_active a{
+  color:#FFFFFF!important;
+}

@@ -1,0 +1,16 @@
+[08-Mar-2013 11:20:38] PHP Parse error:  syntax error, unexpected '@' in /home/wvsoftek/public_html/wvs.in/mdr/application/models/model_login.php on line 31
+[13-Jun-2013 16:11:14] PHP Fatal error:  Call to undefined method Model_Login::dab_update_booking_details() in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/controllers/user_deck_area_booking.php on line 197
+[13-Jun-2013 16:13:43] PHP Fatal error:  Call to undefined method Model_Login::dab_update_booking_details() in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/controllers/user_deck_area_booking.php on line 197
+[14-Jun-2013 11:58:30] PHP Fatal error:  Call to undefined method Model_Login::dab_update_booking_details() in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/controllers/user_deck_area_booking.php on line 197
+[14-Jun-2013 12:05:52] PHP Fatal error:  Call to undefined method Model_Login::dab_update_booking_details() in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/controllers/user_deck_area_booking.php on line 197
+[24-Jun-2013 17:39:24] PHP Fatal error:  Call to undefined method Model_Login::dab_update_booking_details() in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/controllers/user_deck_area_booking.php on line 197
+[25-Jun-2013 10:50:50] PHP Fatal error:  Call to undefined method Model_Login::dab_update_booking_details() in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/controllers/user_deck_area_booking.php on line 197
+[25-Jun-2013 10:57:38] PHP Fatal error:  Call to undefined method Model_Login::dab_update_booking_details() in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/controllers/user_deck_area_booking.php on line 199
+[25-Jun-2013 11:04:26] PHP Fatal error:  Call to undefined method Model_Login::dab_update_booking_details() in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/controllers/user_deck_area_booking.php on line 199
+[25-Jun-2013 15:45:41] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/controllers/User_online_platter_system.php on line 478
+[25-Jun-2013 15:47:44] PHP Fatal error:  Call to undefined method Model_Login::update_platter_values_in_database() in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/controllers/User_online_platter_system.php on line 476
+[25-Jun-2013 15:52:55] PHP Fatal error:  Call to undefined method Model_Login::update_platter_values_in_database() in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/controllers/User_online_platter_system.php on line 477
+[26-Jun-2013 15:02:16] PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/views/user_edit_profile.php on line 28
+[08-Jul-2013 13:13:30] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/models/model_login.php on line 213
+[08-Jul-2013 13:17:11] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/models/model_login.php on line 211
+[08-Jul-2013 13:18:01] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/wvsoftek/public_html/wvs.in/mdrwi/mdr/application/models/model_login.php on line 211
